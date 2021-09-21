@@ -1,0 +1,100 @@
+{
+  "headings": {
+    "work": "Recent Work ",
+    "contacts": "Get in touch ",
+    "skills": "Showcase Tables",
+    "uni": "Denmark | Czech Rep "
+  },
+  "logo":
+    [
+      "test-logo.jpg"
+    ],
+
+  "jobs": [
+    {
+      "title": "Seware Foundation",
+      "type": "Website",
+      "id": 1,
+      "indiclass": "box_1",
+      "projectImg": "project-id-1.jpg",
+      "details": "An educational research based responsive website built with structural languages and bootstrap.Project was created with the vision to bring awareness about sunken ships in the baltic sea .Other focus in this project were jQuery libraries and implementation of embed from different sources.  For overall design of components I used the Materialize front-end framework. Hosted via firebase.",
+      "demo": "https://seaware-foundation-97463.web.app/index.html",
+      "code": "https://github.com/TomassSimko/Exam-2021",
+      "tech1": "html-logo.svg",
+      "tech2": "sass-logos.svg",
+      "tech3": "css-logo.svg"
+    },
+    {
+      "title": "De Blå Spejder ",
+      "type": "Website",
+      "id": 2,
+      "indiclass": "box_2",
+      "projectImg": "project-id-2.jpg",
+      "details": "The Blue Scouts of Esbjerg. Website created to help our client attract more visitors to their scouting group based in Esbjerg, Denmark. Site was created with the simple Html5, Scss and Bootstrap hosted on firebase as a functional prototype of a possible site ready for future development.",
+      "demo": "https://vesterhavs-gruppen.web.app/",
+      "code": "https://github.com/TomassSimko/Vesterhavsgruppen-Project",
+      "tech1": "html-logo.svg",
+      "tech2": "sass-logos.svg",
+      "tech3": "css-logo.svg"
+    },
+    {
+      "title": "Personal Porfolio",
+      "type": "Website",
+      "id": 3,
+      "indiclass": "box_3",
+      "projectImg": "project-id-3.jpg",
+      "details": "Personal Portfolio built with my favourite framework Vue 3 and with Vue UI component library PrimeVue. Highlights of this site are basics of vue router and its parameters. To store larger data and prevent lazy loading I used mounted hooks to fetch that data. Adding contact form from third-party service 99 inbound gave me understanding of end points and implementing it into projects. ",
+      "demo": "https://personal-porfolio-a8c9e.web.app",
+      "code": "https://github.com/TomassSimko/Porfolio-Vue",
+      "tech1": "vue-logo.svg",
+      "tech2": "json-logo.svg",
+      "tech3": "firebase-logo.svg"
+    },
+    {
+      "title": "Weather App",
+      "type": "App",
+      "id": 4,
+      "indiclass": "box_4",
+      "projectImg": "project-id-4.jpg",
+      "details": "Building this weather app with vanilla JavaScript helped me to better understand the core basics of DOM  and fetch API to call and get data from a third-party service. This app is not geolocationaly based but uses search of each location you want to get weather from. This project taught me a lot about assigning each individual's weather icons fetched from third-party service. Overall project was also practice of CSS FlexBox and basics of HTML.",
+      "demo": "https://weather-api-aba60.web.app",
+      "code": "https://github.com/TomassSimko/Weather-App-API",
+      "tech1": "html-logo.svg",
+      "tech2": "sass-logos.svg",
+      "tech3": "js-logo.svg"
+    }
+  ],
+  "contact": {
+    "formTitle": "Send Me A Message",
+    "formEndPoint": "https://app.99inbound.com/api/e/Xx5IneAz",
+    "form": true
+  },
+  "footer": {
+    "copyrightText": "@2021 by Tomas Simko"
+  },
+  "aabout": {
+    "classOne": "Full stack Developer",
+    "classTwo": "TeamBuidling",
+    "classThree": "Hobbies"
+  },
+  "about": {
+    "headerAbout": {
+      "firstText": "I love learning new things and being part of the team is a priority for me. I am a passionate web developer based in Esbjerg Denmark focused on web development with a progressive interest in network security.",
+      "secondText": "Currently I am mainly working with the Vue 3 framework and all its capabilities.I can consider myself as open minded and I always think big. I am able to manage complex details within the projects that require analyzing design requirements and recommending technical solutions with the project’s scalability, maintainability and efficiency.",
+      "thirdText":" I can work across teams and identify and solve problems. I am passionately focused on securing the website and delivering the best possible content. If you need energy and new ideas consider me as a right candidate !"
+    },
+    "profile": {
+      "profilePicture": "profile.jpg",
+      "quote":"'The key to modern life is to be, in a word, unborable '" ,
+      "author": " - David Foster Wallace",
+      "social1": "linkedin.svg",
+      "social2": "twitter.svg",
+      "social3": "youtube.svg"
+    },
+    "uni": {
+      "easvLogo": "Easv-1.png",
+      "czLogo": "cz_logo-1.png"
+    }
+  }
+  
+}
